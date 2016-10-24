@@ -21,7 +21,9 @@ setImages = {
     'adventures': 'adventures_set.png',
     'adventures extras': 'adventures_set.png',
     'empires': 'empires_set.png',
-    'empires extras': 'empires_set.png'
+    'empires extras': 'empires_set.png',
+    'base update pack': 'base_set.png',
+    'intrigue update pack': 'intrigue_set.png'
 }
 promoImages = {
     'walled village': 'walled_village_set.png',
@@ -51,7 +53,8 @@ setTextIcons = {
     'adventures': 'Ad',
     'adventures extras': 'Ad',
     'empires': 'E',
-    'empires extras': 'E'
+    'empires extras': 'E',
+    'update set': 'D'
 }
 
 promoTextIcons = {
