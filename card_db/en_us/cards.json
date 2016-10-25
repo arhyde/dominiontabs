@@ -4415,7 +4415,7 @@
  {
    "cardset": "base update pack",
    "cost": "3",
-   "description": "+1 Card\n+1 Action\n\nLook through your discard pile, You may put a card from it onto your deck",
+   "description": "+1 Card\n+1 Action\n\nLook through your discard pile. You may put a card from it onto your deck",
    "extra": "First draw a card and get +1 Action; then look through your discard pile, and you may put a card from it on top of your deck. Putting a card on top is optional.",
    "name": "harbinger",
    "potcost": 0,
@@ -4425,7 +4425,7 @@
  {
    "cardset": "base update pack",
    "cost": "3",
-   "description": "+1 Card\n+1 Action\n\nThe first time you plaly a Silver this turn, +1 Coin",
+   "description": "+1 Card\n+1 Action\n\nThe first time you play a Silver this turn, +1 Coin",
    "extra": "When you play Merchant, you draw a card and get +1 Action. If you end up playing a Silver later in the turn, it comes with +1 Coin . If you play more than one Merchant, each gives you +1 Coin when you play that first Silver; but if you play more than one Silver, you only get the +1 Coin for the first Silver",
    "name": "merchant",
    "potcost": 0,
@@ -4435,7 +4435,7 @@
  {
    "cardset": "base update pack",
    "cost": "4",
-   "description": "+1 Card\n+1 Action\n+1 Coin\n\nDiscard a card per empty Supply pile",
+   "description": "+1 Card\n+1 Action\n+1 Coin\n\nDiscard a card per empty Supply pile.",
    "extra": "You draw your one card before discarding. If there are no empty piles, you do not discard. If there is one empty pile, you discard one card; if there are two empty piles, you discard two cards, and so on. This includes all Supply piles, including Curses, Coppers, Poacher itself, etc. If you do not have enough cards to discard, just discard the rest of your hand.",
    "name": "poacher",
    "potcost": 0,
@@ -4475,7 +4475,7 @@
  {
    "cardset": "intrigue update pack",
    "cost": "4",
-   "description": "+2 Cards\nIf you have 5 or fewer cards in hand (after drawing), +2 Actions.\n\nWhen another player plays an Attack card, you may first reveal this from a hand of 5 or more cards, to draw 2 cards then discard 3.",
+   "description": "+2 Cards\nIf you have 5 or fewer cards in hand (after drawing), +2 Actions.\n______________________\nWhen another player plays an Attack card, you may first reveal this from a hand of 5 or more cards, to draw 2 cards then discard 3.",
    "extra": "When playing this, you get +2 Cards, then count your cards in hand, and if you have 5 cards or fewer, you get +2 Actions. So, for example if you play this from a hand of 5 cards, you will put it into play, going down to 4 cards, then draw 2 cards, going up to 6 cards, and that is more than 5 cards so you would not get the +2 Actions. Diplomat can also be used when another player plays an Attack card, if you have at least 5 cards in hand. Before the Attack card does anything, you can reveal a Diplomat from your hand; if you do, you draw 2 cards, then discard 3 cards (which can include the Diplomat). If you still have at least 5 cards in hand after doing that (such as due to Council Rooms), you can reveal Diplomat again and do it again. You reveal Reactions one at a time; you cannot reveal two Diplomats simultaneously. You can reveal a Moat from your hand (to be unaffected by an Attack) either before or after revealing and resolving a Diplomat (even if the Moat was not in your hand until after resolving Diplomat).",
    "name": "diplomat",
    "potcost": 0,
@@ -4495,7 +4495,7 @@
  {
    "cardset": "intrigue update pack",
    "cost": "4",
-   "description": "+1 Card\n+1 Action\nYou may discard 2 cards, for +2 Coins.\n\n1 <VP>",
+   "description": "+1 Card\n+1 Action\nYou may discard 2 cards, for +2 Coins.\n______________________\n1 <VP>",
    "extra": "You can choose to discard 2 cards even if you only have one card in hand, but you only get +2 Coins if you actually discarded 2 cards. Use 8 Mills for games with 2 players, 12 for games with 3 or more players.",
    "name": "mill",
    "potcost": 0,
